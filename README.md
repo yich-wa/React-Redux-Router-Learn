@@ -2,7 +2,7 @@
 
 It's a practice demo about "react/ react-redux/ redux/ react-router-dom ...". You can see the technique from the picture below . Though it's not very complete , but the it help me practice these techniques.
 
-**Project technique **
+**Project technique**
 
 ![component](jpeg\component.jpg)
 
